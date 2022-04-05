@@ -4,7 +4,7 @@
   <url>
     <loc>https://joter.top/archives/2ad663bb.html</loc>
     
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://joter.top/categories/index.html</loc>
+    <loc>https://joter.top/comments/index.html</loc>
     
     <lastmod>2022-02-11</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://joter.top/comments/index.html</loc>
+    <loc>https://joter.top/categories/index.html</loc>
     
     <lastmod>2022-02-11</lastmod>
     
@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://joter.top/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,28 +75,28 @@
   
   <url>
     <loc>https://joter.top/tags/Academic/</loc>
-    <lastmod>2022-04-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://joter.top/tags/Distributed-Clustering/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://joter.top/tags/Paper-Reading-Notes/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://joter.top/tags/Distributed-Clustering/</loc>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://joter.top/tags/Track-Clustering/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -105,21 +105,21 @@
   
   <url>
     <loc>https://joter.top/categories/Academic/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://joter.top/categories/Academic/Distributed-Trajectory-Clustering/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://joter.top/categories/Academic/Distributed-Trajectory-Clustering/Paper-Reading-Notes/</loc>
-    <lastmod>2022-04-04</lastmod>
+    <lastmod>2022-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

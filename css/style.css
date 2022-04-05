@@ -1,18 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/css/hint.min.css">@import "//at.alicdn.com/t/font_2264842_b004iy0kk2b.css";
 
 /*
- 鼠标样式设置
- */
-body {
-    cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur),
-    default;
-}
-a:hover{
-    cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Hand2.cur),
-    default;
-}
-
-/*
  滚动条样式设置
  */
 ::-webkit-scrollbar {
@@ -188,4 +176,16 @@ svg.icon {
 
 #site-title{
     display: none;
+}
+
+/*
+ 鼠标样式设置
+ */
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur),
+    default;
+}
+a:hover{
+    cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Hand2.cur),
+    default;
 }
