@@ -130,25 +130,25 @@ div#category{
     fill: currentColor;
     overflow: hidden;
 }
-/* 页脚蝴蝶振翅动画 */
-.copyright svg{
-    animation:butterfly 1s linear infinite alternate;
-}
+/*!* 页脚蝴蝶振翅动画 *!*/
+/*.copyright svg{*/
+/*    animation:butterfly 1s linear infinite alternate;*/
+/*}*/
 
-.copyright {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+/*.copyright {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
 
-@keyframes butterfly {
-    from {
-        transform: rotateY(70deg);
-    }
-    to {
-        transform: rotateY(0deg);
-    }
-}
+/*@keyframes butterfly {*/
+/*    from {*/
+/*        transform: rotateY(70deg);*/
+/*    }*/
+/*    to {*/
+/*        transform: rotateY(0deg);*/
+/*    }*/
+/*}*/
 
 /*归档页生肖图标设置*/
 svg.icon {
