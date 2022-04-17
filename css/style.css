@@ -181,11 +181,15 @@ svg.icon {
 /*
  鼠标样式设置
  */
-body {
+body, div, label{
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur),
     default;
 }
-a:hover{
+a:hover, button{
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Hand2.cur),
+    default!important;
+}
+textarea, input {
+    cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/202204171258879.cur),
     default;
 }
