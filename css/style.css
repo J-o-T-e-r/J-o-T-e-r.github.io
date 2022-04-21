@@ -193,3 +193,8 @@ textarea, input {
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/202204171258879.cur),
     default!important;
 }
+
+img.medium-zoom-image {
+    cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/202204211351059.cur),
+    default;
+}
