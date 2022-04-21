@@ -181,11 +181,11 @@ svg.icon {
 /*
  鼠标样式设置
  */
-body, div, label, span.article-meta-label, time{
+body, div, label, .article-meta-wrap span, span.article-meta-label, time{
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur),
     default!important;
 }
-a:hover, button, i{
+a, button, #scroll-down i{
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Hand2.cur),
     default!important;
 }
