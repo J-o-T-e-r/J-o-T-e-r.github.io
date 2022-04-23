@@ -186,7 +186,8 @@ html{
     cursor: url('https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur'),auto !important;
 }
 
-div, label, .article-meta-wrap span, span.article-meta-label, time{
+div, label, .article-meta-wrap span, span.article-meta-label, time
+, span.hint--top.hint--error.hint--medium.hint--rounded.hint--bounce{
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur),
     default!important;
 }
