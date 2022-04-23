@@ -181,7 +181,12 @@ svg.icon {
 /*
  鼠标样式设置
  */
-body, div, label, .article-meta-wrap span, span.article-meta-label, time{
+body,
+html{
+    cursor: url('https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur'),auto !important;
+}
+
+div, label, .article-meta-wrap span, span.article-meta-label, time{
     cursor: url(https://cdn.jsdelivr.net/gh/J-o-T-e-r/Image_Warehouse/img/Arrow.cur),
     default!important;
 }
