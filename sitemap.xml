@@ -81,13 +81,6 @@
   </url>
   
   <url>
-    <loc>https://joter.top/tags/Track-Clustering/</loc>
-    <lastmod>2022-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://joter.top/tags/Paper-Reading-Notes/</loc>
     <lastmod>2022-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -96,6 +89,13 @@
   
   <url>
     <loc>https://joter.top/tags/Distributed-Clustering/</loc>
+    <lastmod>2022-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://joter.top/tags/Track-Clustering/</loc>
     <lastmod>2022-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
